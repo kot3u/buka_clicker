@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  display: flex;
+}
+
+p {
+  color: white;
+  font-size: 50px;
+  margin-left: 10px;
+}
